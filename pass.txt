@@ -1,2 +1,0 @@
-non creare mai questa file
-la_mia_pass=45
